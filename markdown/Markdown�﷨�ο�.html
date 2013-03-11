@@ -1,0 +1,106 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title></title>
+<style id="system" type="text/css">h1,h2,h3,h4,h5,h6,p,blockquote {    margin: 0;    padding: 0;}body {    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;    font-size: 13px;    line-height: 18px;    color: #737373;    margin: 10px 13px 10px 13px;}a {    color: #0069d6;}a:hover {    color: #0050a3;    text-decoration: none;}a img {    border: none;}p {    margin-bottom: 9px;}h1,h2,h3,h4,h5,h6 {    color: #404040;    line-height: 36px;}h1 {    margin-bottom: 18px;    font-size: 30px;}h2 {    font-size: 24px;}h3 {    font-size: 18px;}h4 {    font-size: 16px;}h5 {    font-size: 14px;}h6 {    font-size: 13px;}hr {    margin: 0 0 19px;    border: 0;    border-bottom: 1px solid #ccc;}blockquote {    padding: 13px 13px 21px 15px;    margin-bottom: 18px;    font-family:georgia,serif;    font-style: italic;}blockquote:before {    content:"C";    font-size:40px;    margin-left:-10px;    font-family:georgia,serif;    color:#eee;}blockquote p {    font-size: 14px;    font-weight: 300;    line-height: 18px;    margin-bottom: 0;    font-style: italic;}code, pre {    font-family: Monaco, Andale Mono, Courier New, monospace;}code {    background-color: #fee9cc;    color: rgba(0, 0, 0, 0.75);    padding: 1px 3px;    font-size: 12px;    -webkit-border-radius: 3px;    -moz-border-radius: 3px;    border-radius: 3px;}pre {    display: block;    padding: 14px;    margin: 0 0 18px;    line-height: 16px;    font-size: 11px;    border: 1px solid #d9d9d9;    white-space: pre-wrap;    word-wrap: break-word;}pre code {    background-color: #fff;    color:#737373;    font-size: 11px;    padding: 0;}@media screen and (min-width: 768px) {    body {        width: 748px;        margin:10px auto;    }}</style><style id="custom" type="text/css"></style></head>
+<body marginheight="0"><h1>Standard Markdown</h1>
+<h2>Strong and Emphasize</h2>
+<pre><code>*emphasize*   **strong**
+_emphasize_   __strong__</code></pre>
+<h2>Links and Email</h2>
+<p>Inline:
+</p>
+<pre><code>An [example](http://url.com/ "Title")</code></pre>
+<p>Reference-style labels (titles are optional):
+</p>
+<pre><code>
+An [example][id]. Then, anywhere
+else in the doc, define the link:
+
+  [id]: http://example.com/  "Title"</code></pre>
+<p>Email:
+</p>
+<pre><code>An email &lt;example@example.com&gt; link.</code></pre>
+<h2>Images</h2>
+<p>Inline (titles are optional):
+</p>
+<pre><code>![alt text](/path/img.jpg "Title")</code></pre>
+<p>Reference-style:
+</p>
+<pre><code>![alt text][id]
+
+[id]: /url/to/img.jpg "Title"</code></pre>
+<h2>Headers</h2>
+<pre><code>Setext-style:
+
+Header 1
+========
+
+Header 2
+--------</code></pre>
+<p>atx-style (closing #’s are optional):
+</p>
+<pre><code># Header 1 #
+
+## Header 2 ##
+
+###### Header 6</code></pre>
+<h2>Lists</h2>
+<p>Ordered, without paragraphs:
+</p>
+<pre><code>1.  Foo
+2.  Bar</code></pre>
+<p>Unordered, with paragraphs:
+</p>
+<pre><code>*   A list item.
+
+    With multiple paragraphs.
+
+*   Bar</code></pre>
+<p>You can nest them:
+</p>
+<pre><code>*   Abacus
+    * answer
+*   Bubbles
+    1.  bunk
+    2.  bupkis
+        * BELITTLER
+    3. burper
+*   Cunning</code></pre>
+<h2>Blockquotes</h2>
+<pre><code>&gt; Email-style angle brackets
+&gt; are used for blockquotes.
+
+&gt; &gt; And, they can be nested.
+
+&gt; #### Headers in blockquotes
+&gt; 
+&gt; * You can quote a list.
+&gt; * Etc.</code></pre>
+<h2>Inline Code</h2>
+<pre><code>`&lt;code&gt;` spans are delimited
+by backticks.
+
+You can include literal backticks
+like `` `this` ``.</code></pre>
+<h2>Block Code</h2>
+<p>Indent every line of a code block by at least 4 spaces or 1 tab.
+</p>
+<pre><code>This is a normal paragraph.
+
+    This is a preformatted
+    code block.</code></pre>
+<h2>Horizontal Rules</h2>
+<p>Three or more dashes or asterisks:
+</p>
+<pre><code>---
+
+* * *
+
+- - - -</code></pre>
+<h2>Hard Line Breaks</h2>
+<p>End a line with two or more spaces:
+</p>
+<pre><code>Roses are red,   
+Violets are blue.</code></pre>
+<p>Edit By <a href="http://mahua.jser.me">MaHua</a></p>
+</body></html>
