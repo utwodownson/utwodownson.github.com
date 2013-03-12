@@ -17,7 +17,7 @@ output :
 	rm -rf ./outuput
 	mkdir ./output
 	cp $(OBJ1) $(OBJ2) ./output
-$(OBJ1)	: main.o load.o mergesort.o fun.o insertion_sort.o 
+$(OBJ1)	: main.o load.o mergesort.o fun.o insertion_sort.o bubble_sort.o
 	$(CC) -O2 -o $@ $^  $(INCLUDEDIR)  $(LIBDIR)	
 #$(OBJ2)	: list.o load.o sort.o  
 #	$(CC) -O2 -o $@ $^  $(INCLUDEDIR)  $(LIBDIR)	
