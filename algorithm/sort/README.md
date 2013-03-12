@@ -19,18 +19,16 @@ wiki上的排序分类：
 
 本文只介绍`《算法导论》`里边提到的排序算法，按照出现的顺序，代码实现如下：
 
-###[Insertion Sort](./insertion_sort.cpp)
+###[Insertion Sort](insertion_sort.cpp)
 
 * 从后向前，在已排序的数组中插入key的元素。
 
-###[Merge Sort](./mergesort.cpp)
+###[Merge Sort](mergesort.cpp)
 
 * ####递归
 
-    * 拆分成两个数组合并。
-
-    * 求mid，合并前一半，合并后一半。
+    * 拆分成两个数组合并, 然后求mid，合并前一半，合并后一半。
 
 * ####非递归
 
-    *  
+    * 分成左右两边从下向上的合并；
