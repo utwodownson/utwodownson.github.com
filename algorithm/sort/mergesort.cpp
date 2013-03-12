@@ -65,7 +65,7 @@ void merge_sort_unr(int *list, int length)
              * 所以应该叫left_len、righ_len更合适一些。
              */
             right_min = left_max = left_min + i; //right_min取left_max的值，以下要用到left_max的值才不会改变left_max原先值
-            right_max = left_max + i;
+            right_max = left_max + i;   // right_max标记下一次的开始位置
 
             if (right_max > length) //如果right_max超出了数组长度，则right_max等于数组长度
                 right_max = length;
