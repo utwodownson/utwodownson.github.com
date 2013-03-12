@@ -16,6 +16,8 @@ int main()
     insertion_sort(data, len);
 #elif SORT == MERGE
     mergesort(data, len);
+#elif SORT == URMERGE
+    mergesort_unr(data, len);
 #endif
 
     show_data(data, len);

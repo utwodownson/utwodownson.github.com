@@ -12,17 +12,19 @@
 
 #define MAX 100 
 
-#define SORT 1
+#define SORT 3 
 
 #define INSERTION 1
 #define MERGE 2
+#define URMERGE 3
 
 int load_file(char *filename, int *number, int *array);
 void show_data(int *array, int capacity);
 void shuffle(int *array, int capacity);
 
 void insertion_sort(int *array, int capacity);
-void merge_sort(int *array, int left, int right);
+void mergesort(int *array, int left, int right);
+void mergesort_unr(int *array, int length);
 // void bubble_sort(int *array, int capacity);
 
 #endif

@@ -29,7 +29,7 @@ void merge(int *data, int left, int mid, int right)
 }
 
 // recursion
-void merge_sort(int *data, int left, int right)
+void mergesort(int *data, int left, int right)
 {
     int mid = 0;
     if (left < right)   // notice
@@ -37,15 +37,15 @@ void merge_sort(int *data, int left, int right)
         // mid = (left + right) / 2 --> if the left and right are too big 
         // mid = left / 2 + right / 2 --> wrong 
         mid = ((left & right) + ((left ^ right) >> 1)); // right
-        merge_sort(data, left, mid);
-        merge_sort(data, mid + 1, right);
+        mergesort(data, left, mid);
+        mergesort(data, mid + 1, right);
         merge(data, left, mid, right);
     }
 }
 
 // unrecursion
 // 将原数组划分为left[min...max] 和 right[min...max]两部分
-void merge_sort_unr(int *list, int length)
+void mergesort_unr(int *list, int length)
 {
     int left_min, left_max, right_min, right_max, next;
     int *tmp = (int*)malloc(sizeof(int) * length);

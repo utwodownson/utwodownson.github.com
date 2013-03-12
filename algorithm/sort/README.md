@@ -32,6 +32,6 @@ wiki上的排序分类：
     从下至上2,4,8,...,length合并
     * 4个标志位
         * left_min 开始位置
-        * right_min 右侧开始位置，同时是放回数组的标志位。
+        * right_min 右侧开始位置，同时是放回数组的标志位。每次整理从right_min-->0的数组
         * left_max 限制左边的标志位
         * right_max 下一次开始的位置 
