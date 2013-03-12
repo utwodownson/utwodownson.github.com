@@ -17,7 +17,7 @@ void insertion_sort(int *data, int len)
     }
 }
 
-#ifdef TESTINSERTION
+/*
 int main()
 {
     int number = 0;
@@ -34,5 +34,5 @@ int main()
     }
     printf("\n");
 }
-#endif
+*/
 
