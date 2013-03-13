@@ -2,26 +2,21 @@
 
 void shell_sort(int *data, int len)
 {
-    const int n = 5;
-    int i, j, temp; 
-    int gap = 0;
-    while (gap<=n)
+    int key = 0;
+    int j = 0;
+    for (int step = len / 2; step > 0; step /= 2)
     {
-        gap = gap * 3 + 1;
-    } 
-    while (gap > 0) 
-    {
-        for ( i = gap; i < n; i++ )
+        for (int i = step; i < len; ++i) 
         {
-            j = i - gap;
-            temp = data[i];             
-            while (( j >= 0 ) && ( data[j] > temp ))
+            key = data[i];
+            j = i - step;
+            // for (j = i - step; j >= 0 && data[j] > key; j -= step)
+            while (j >= 0 && data[j] > key)
             {
-                data[j + gap] = data[j];
-                j = j - gap;
+                data[j + step] = data[j];
+                j -= step;
             }
-            data[j + gap] = temp;
+            data[j + step] = key;
         }
-        gap = ( gap - 1 ) / 3;
-    }    
+    }
 }
