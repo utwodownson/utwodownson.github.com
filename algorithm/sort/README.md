@@ -26,7 +26,7 @@ wiki上的排序分类：
 
     通常采用in-place排序（即只需用到O(1)的额外空间的排序）。
     
-    STL的sort算法和stdlib的qsort算法中，都将插入排序作为快速排序的补充，
+        STL的sort算法和stdlib的qsort算法中，都将插入排序作为快速排序的补充，
     用于少量元素的排序（通常为8个或以下）。
 
 ##[Merge Sort](mergesort.cpp)
@@ -71,3 +71,5 @@ wiki上的排序分类：
 
 ##[Quick Sort](quicksort.cpp)
 #####i左边的元素都比i小，右边的都比i大
+
+
