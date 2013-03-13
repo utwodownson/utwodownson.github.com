@@ -12,12 +12,13 @@
 
 #define MAX 100 
 
-#define SORT 4 
+#define SORT 5 
 
 #define INSERTION 1
 #define MERGE 2
 #define URMERGE 3
 #define BUBBLE 4
+#define SELECT 5
 
 int load_file(char *filename, int *number, int *array);
 void swap(int *left, int *right);
@@ -28,5 +29,6 @@ void insertion_sort(int *array, int capacity);
 void mergesort(int *array, int left, int right);
 void mergesort_unr(int *array, int length);
 void bubble_sort(int *array, int capacity);
+void selection_sort(int *array, int len);
 
 #endif

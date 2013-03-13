@@ -24,6 +24,9 @@ int main()
 #elif SORT == BUBBLE
     printf("bubble sort\n");
     bubble_sort(data, len);
+#elif SORT == SELECT 
+    printf("selection sort\n");
+    selection_sort(data, len);
 #endif
 
     show_data(data, len);
