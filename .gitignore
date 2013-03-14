@@ -12,6 +12,8 @@
 
 *.o
 *.exe
+*.swp
+*~
 
 /output
 

@@ -12,7 +12,7 @@
 
 #define MAX 100 
 
-#define SORT 6 
+#define SORT 7 
 
 #define INSERTION 1
 #define MERGE 2
@@ -20,6 +20,7 @@
 #define BUBBLE 4
 #define SELECT 5
 #define SHELL 6
+#define QUICK 7
 
 int load_file(char *filename, int *number, int *array);
 void swap(int *left, int *right);
@@ -32,5 +33,6 @@ void mergesort_unr(int *array, int length);
 void bubble_sort(int *array, int capacity);
 void selection_sort(int *array, int len);
 void shell_sort(int *array, int len);
+void quick_sort(int *data, int low, int high);
 
 #endif

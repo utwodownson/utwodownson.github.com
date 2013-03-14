@@ -4,7 +4,7 @@ int main()
 {
     int len = 0;
     int data[MAX] = {0};
-    char file[10] = "./data/test.txt";
+    char file[30] = "data/test.txt";
 
     srand((unsigned int) time(NULL));
 
@@ -30,6 +30,9 @@ int main()
 #elif SORT == SHELL 
     printf("shell sort\n");
     shell_sort(data, len);
+#elif SORT == QUICK 
+    printf("quick sort\n");
+    quick_sort(data, 0, len - 1);
 #endif
 
     show_data(data, len);

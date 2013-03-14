@@ -10,6 +10,11 @@ int load_file(char *filename, int *number, int *array)
 
     fp = fopen(filename, "rb");
 
+    if (fp == NULL) {
+        printf("can not open the file\n");
+        return ERROR;
+    }
+
     fscanf(fp, "%d", &capacity);
     *number = capacity;
     
