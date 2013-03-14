@@ -44,9 +44,13 @@ wiki上的排序分类：
         right_max:下一次开始的位置 
 
 ####优化
-    - 一次性的malloc一个buffer，提高性能, [更改内存分配策略](http://blog.kingsamchen.com/archives/668)
+[更改内存分配策略](http://blog.kingsamchen.com/archives/668)
 
-    - 对少量数据采用插入排序，[Θ(nk+nlog(n/k))](http://blog.kingsamchen.com/archives/715?replytocom=1328)
+[Θ(nk+nlog(n/k))](http://blog.kingsamchen.com/archives/715?replytocom=1328)
+
+    - 一次性的malloc一个buffer，提高性能 
+
+    - 对少量数据采用插入排序，
 
     - 当k=logN，可以让耗时最小。实验也表明，当N相对较小时，k取8-12可以取得很好的效果（标准C函数的快排取k=8）；
     
