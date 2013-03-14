@@ -1,75 +1,75 @@
-##ÅÅÐò
+##æŽ’åº
 
 
-wikiÉÏµÄÅÅÐò·ÖÀà£º
+wikiä¸Šçš„æŽ’åºåˆ†ç±»ï¼š
 
-* ½»»»ÅÅÐò·¨    | [Ã°ÅÝÅÅÐò](http://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F) | ¼¦Î²¾ÆÅÅÐò | ÆæÅ¼ÅÅÐò | ÊáÅÅÐò | ÙªÈåÅÅÐò | [¿ìËÙÅÅÐò](http://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F) | ³ôÆ¤½³ÅÅÐò | BogoÅÅÐò
+* äº¤æ¢æŽ’åºæ³•    | [å†’æ³¡æŽ’åº](http://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F) | é¸¡å°¾é…’æŽ’åº | å¥‡å¶æŽ’åº | æ¢³æŽ’åº | ä¾å„’æŽ’åº | [å¿«é€ŸæŽ’åº](http://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F) | è‡­çš®åŒ æŽ’åº | BogoæŽ’åº
 
-* Ñ¡ÔñÅÅÐò·¨    | [Ñ¡ÔñÅÅÐò](http://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F) | [¶ÑÅÅÐò](http://zh.wikipedia.org/wiki/%E5%A0%86%E6%8E%92%E5%BA%8F) | SmoothÅÅÐò | µÑ¿¨¶ûÊ÷ÅÅÐò | ½õ±êÈüÅÅÐò | Ñ­»·ÅÅÐò
+* é€‰æ‹©æŽ’åºæ³•    | [é€‰æ‹©æŽ’åº](http://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F) | [å †æŽ’åº](http://zh.wikipedia.org/wiki/%E5%A0%86%E6%8E%92%E5%BA%8F) | SmoothæŽ’åº | ç¬›å¡å°”æ ‘æŽ’åº | é”¦æ ‡èµ›æŽ’åº | å¾ªçŽ¯æŽ’åº
 
-* ²åÈëÅÅÐò·¨    | [²åÈëÅÅÐò](http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F) | [Ï£¶ûÅÅÐò](http://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F) | ¶þ²æ²éÕÒÊ÷ÅÅÐò | Í¼Êé¹ÝÅÅÐò | PatienceÅÅÐò
+* æ’å…¥æŽ’åºæ³•    | [æ’å…¥æŽ’åº](http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F) | [å¸Œå°”æŽ’åº](http://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F) | äºŒå‰æŸ¥æ‰¾æ ‘æŽ’åº | å›¾ä¹¦é¦†æŽ’åº | PatienceæŽ’åº
 
-* ¹é²¢ÅÅÐò·¨    | [¹é²¢ÅÅÐò](http://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F) | ¶àÏà¹é²¢ÅÅÐò | StrandÅÅÐò
+* å½’å¹¶æŽ’åºæ³•    | [å½’å¹¶æŽ’åº](http://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F) | å¤šç›¸å½’å¹¶æŽ’åº | StrandæŽ’åº
 
-* ·Ö²¼ÅÅÐò·¨    | ÃÀ¹úÆìÖÄÅÅÐò | ÖéÅÅÐò | [Í°ÅÅÐò](http://zh.wikipedia.org/wiki/%E6%A1%B6%E6%8E%92%E5%BA%8F) | ±¬Õ¨ÅÅÐò | [¼ÆÊýÅÅÐò](http://zh.wikipedia.org/wiki/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F) | ¸ë³²ÅÅÐò | ÏàÁÚÍ¼ÅÅÐò | [»ùÊýÅÅÐò](http://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F) | ÉÁµçÅÅÐò | ²åÖµÅÅÐò
+* åˆ†å¸ƒæŽ’åºæ³•    | ç¾Žå›½æ——å¸œæŽ’åº | ç æŽ’åº | [æ¡¶æŽ’åº](http://zh.wikipedia.org/wiki/%E6%A1%B6%E6%8E%92%E5%BA%8F) | çˆ†ç‚¸æŽ’åº | [è®¡æ•°æŽ’åº](http://zh.wikipedia.org/wiki/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F) | é¸½å·¢æŽ’åº | ç›¸é‚»å›¾æŽ’åº | [åŸºæ•°æŽ’åº](http://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F) | é—ªç”µæŽ’åº | æ’å€¼æŽ’åº
 
-* »ìºÏÅÅÐò·¨    | TimÅÅÐò | ÄÚÊ¡ÅÅÐò | SpreadÅÅÐò | ·´ÒÆÅÅÐò | JÅÅÐò
+* æ··åˆæŽ’åºæ³•    | TimæŽ’åº | å†…çœæŽ’åº | SpreadæŽ’åº | åç§»æŽ’åº | JæŽ’åº
 
-* ÆäËû | Ë«µ÷ÅÅÐòÆ÷ | Batcher¹é²¢ÍøÂç | Á½Á½ÅÅÐòÍøÂç
+* å…¶ä»– | åŒè°ƒæŽ’åºå™¨ | Batcherå½’å¹¶ç½‘ç»œ | ä¸¤ä¸¤æŽ’åºç½‘ç»œ
 
-±¾ÎÄÖ»½éÉÜ`¡¶Ëã·¨µ¼ÂÛ¡·`Àï±ßÌáµ½µÄÅÅÐòËã·¨£¬°´ÕÕ³öÏÖµÄË³Ðò£¬´úÂëÊµÏÖÈçÏÂ£º
+æœ¬æ–‡åªä»‹ç»`ã€Šç®—æ³•å¯¼è®ºã€‹`é‡Œè¾¹æåˆ°çš„æŽ’åºç®—æ³•ï¼ŒæŒ‰ç…§å‡ºçŽ°çš„é¡ºåºï¼Œä»£ç å®žçŽ°å¦‚ä¸‹ï¼š
 
 ##[Insertion Sort](insertion_sort.cpp)
 
-#####´ÓºóÏòÇ°£¬ÔÚÒÑÅÅÐòµÄÊý×éÖÐ²åÈëkeyµÄÔªËØ¡£
-    - ·¢Ã÷ÕßHollerith´´Á¢µÄµçÄÔÖÆ±í¼ÇÂ¼¹«Ë¾£¨CTR£©ÔÚ1924Äê¸üÃûÎªIBM¡£
+#####ä»ŽåŽå‘å‰ï¼Œåœ¨å·²æŽ’åºçš„æ•°ç»„ä¸­æ’å…¥keyçš„å…ƒç´ ã€‚
+    - å‘æ˜Žè€…Hollerithåˆ›ç«‹çš„ç”µè„‘åˆ¶è¡¨è®°å½•å…¬å¸ï¼ˆCTRï¼‰åœ¨1924å¹´æ›´åä¸ºIBMã€‚
 
-    - Í¨³£²ÉÓÃin-placeÅÅÐò£¨¼´Ö»ÐèÓÃµ½O(1)µÄ¶îÍâ¿Õ¼äµÄÅÅÐò£©¡£
+    - é€šå¸¸é‡‡ç”¨in-placeæŽ’åºï¼ˆå³åªéœ€ç”¨åˆ°O(1)çš„é¢å¤–ç©ºé—´çš„æŽ’åºï¼‰ã€‚
     
-    - STLµÄsortËã·¨ºÍstdlibµÄqsortËã·¨ÖÐ£¬¶¼½«²åÈëÅÅÐò×÷Îª¿ìËÙÅÅÐòµÄ²¹³ä£¬
-    ÓÃÓÚÉÙÁ¿ÔªËØµÄÅÅÐò£¨Í¨³£Îª8¸ö»òÒÔÏÂ£©¡£
+    - STLçš„sortç®—æ³•å’Œstdlibçš„qsortç®—æ³•ä¸­ï¼Œéƒ½å°†æ’å…¥æŽ’åºä½œä¸ºå¿«é€ŸæŽ’åºçš„è¡¥å……ï¼Œ
+    ç”¨äºŽå°‘é‡å…ƒç´ çš„æŽ’åºï¼ˆé€šå¸¸ä¸º8ä¸ªæˆ–ä»¥ä¸‹ï¼‰ã€‚
 
 ##[Merge Sort](mergesort.cpp)
 
-####µÝ¹é
-    - ²ð·Ö³ÉÁ½¸öÊý×éºÏ²¢, È»ºóÇómid£¬ºÏ²¢Ç°Ò»°ë£¬ºÏ²¢ºóÒ»°ë¡£
+####é€’å½’
+    - æ‹†åˆ†æˆä¸¤ä¸ªæ•°ç»„åˆå¹¶, ç„¶åŽæ±‚midï¼Œåˆå¹¶å‰ä¸€åŠï¼Œåˆå¹¶åŽä¸€åŠã€‚
 
-####·ÇµÝ¹é
-    - ´ÓÏÂÖÁÉÏ2,4,8,...,lengthºÏ²¢
+####éžé€’å½’
+    - ä»Žä¸‹è‡³ä¸Š2,4,8,...,lengthåˆå¹¶
 
-    - 4¸ö±êÖ¾Î»:
-        left_min:¿ªÊ¼Î»ÖÃ
-        right_min:ÓÒ²à¿ªÊ¼Î»ÖÃ£¬Í¬Ê±ÊÇ·Å»ØÊý×éµÄ±êÖ¾Î»¡£Ã¿´ÎÕûÀí´Óright_min-->0µÄÊý×é
-        left_max:ÏÞÖÆ×ó±ßµÄ±êÖ¾Î»
-        right_max:ÏÂÒ»´Î¿ªÊ¼µÄÎ»ÖÃ 
+    - 4ä¸ªæ ‡å¿—ä½:
+        left_min:å¼€å§‹ä½ç½®
+        right_min:å³ä¾§å¼€å§‹ä½ç½®ï¼ŒåŒæ—¶æ˜¯æ”¾å›žæ•°ç»„çš„æ ‡å¿—ä½ã€‚æ¯æ¬¡æ•´ç†ä»Žright_min-->0çš„æ•°ç»„
+        left_max:é™åˆ¶å·¦è¾¹çš„æ ‡å¿—ä½
+        right_max:ä¸‹ä¸€æ¬¡å¼€å§‹çš„ä½ç½® 
 
 ##[Bubble Sort](bubble_sort.cpp)
 
-#####Í¨¹ýÁ½Á½±È½Ï½»»»£¬°Ñ×îÐ¡µÄÔªËØ¡°¸¡¡±µ½Êý¾ÝµÄ¶¥¶Ë¡£
-    - ÔÚ×î»µµÄÇé¿ö£¬Ã°ÅÝÅÅÐòÐèÒªO(n^2)´Î½»»»£¬¶ø²åÈëÅÅÐòÖ»Òª×î¶àO(n)½»»»¡£
+#####é€šè¿‡ä¸¤ä¸¤æ¯”è¾ƒäº¤æ¢ï¼ŒæŠŠæœ€å°çš„å…ƒç´ â€œæµ®â€åˆ°æ•°æ®çš„é¡¶ç«¯ã€‚
+    - åœ¨æœ€åçš„æƒ…å†µï¼Œå†’æ³¡æŽ’åºéœ€è¦O(n^2)æ¬¡äº¤æ¢ï¼Œè€Œæ’å…¥æŽ’åºåªè¦æœ€å¤šO(n)äº¤æ¢ã€‚
 
-    - ÔÚÄÚ²¿Ñ­»·µÚÒ»´ÎÖ´ÐÐÊ±£¬ÓÃÒ»¸öÆì±êÀ´±íÊ¾ÓÐÎÞÐèÒª½»»»µÄ¿ÉÄÜ£¬¿ÉÄÜ°Ñ×îºÃµÄ¸´ÔÓ¶È½µµÍµ½O(n);
+    - åœ¨å†…éƒ¨å¾ªçŽ¯ç¬¬ä¸€æ¬¡æ‰§è¡Œæ—¶ï¼Œç”¨ä¸€ä¸ªæ——æ ‡æ¥è¡¨ç¤ºæœ‰æ— éœ€è¦äº¤æ¢çš„å¯èƒ½ï¼Œå¯èƒ½æŠŠæœ€å¥½çš„å¤æ‚åº¦é™ä½Žåˆ°O(n);
 
-    - ÈôÔÚÃ¿´Î×ß·ÃÊýÁÐÊ±£¬°Ñ×ß·ÃË³ÐòºÍ±È½Ï´óÐ¡·´¹ýÀ´£¬Ò²¿ÉÒÔÉÔÎ¢µØ¸Ä½øÐ§ÂÊ¡£
-    ÓÐÊ±ºò³ÆÎªÍù·µÅÅÐò£¬ÒòÎªËã·¨»á´ÓÊýÁÐµÄÒ»¶Ëµ½ÁíÒ»¶ËÖ®¼ä´©ËóÍù·µ¡£
+    - è‹¥åœ¨æ¯æ¬¡èµ°è®¿æ•°åˆ—æ—¶ï¼ŒæŠŠèµ°è®¿é¡ºåºå’Œæ¯”è¾ƒå¤§å°åè¿‡æ¥ï¼Œä¹Ÿå¯ä»¥ç¨å¾®åœ°æ”¹è¿›æ•ˆçŽ‡ã€‚
+    æœ‰æ—¶å€™ç§°ä¸ºå¾€è¿”æŽ’åºï¼Œå› ä¸ºç®—æ³•ä¼šä»Žæ•°åˆ—çš„ä¸€ç«¯åˆ°å¦ä¸€ç«¯ä¹‹é—´ç©¿æ¢­å¾€è¿”ã€‚
 
 ##[Selection Sort](selection_sort.cpp)
-#####Ö±½ÓÕÒ×î´ó×îÐ¡ÔªËØ
+#####ç›´æŽ¥æ‰¾æœ€å¤§æœ€å°å…ƒç´ 
 
 ##[Shell Sort](shell_sort.cpp)
-#####ÒÔ²½³¤step½øÐÐ²åÈëÅÅÐò
-    Éè¼ÆÕßÏ£¶û£¨Donald Shell£©µÄÃû×ÖÃüÃû£¬¸ÃËã·¨ÓÉ1959Äê¹«²¼¡£
+#####ä»¥æ­¥é•¿stepè¿›è¡Œæ’å…¥æŽ’åº
+    è®¾è®¡è€…å¸Œå°”ï¼ˆDonald Shellï¼‰çš„åå­—å‘½åï¼Œè¯¥ç®—æ³•ç”±1959å¹´å…¬å¸ƒã€‚
 
-    V. PrattµÄÊé ¶ÔËã·¨½øÐÐÁËÉÙÁ¿ÐÞ¸Ä£¬¿ÉÒÔÊ¹µÃÐÔÄÜÌáÉýÖÁO(n(logn)^2)¡£
+    V. Prattçš„ä¹¦ å¯¹ç®—æ³•è¿›è¡Œäº†å°‘é‡ä¿®æ”¹ï¼Œå¯ä»¥ä½¿å¾—æ€§èƒ½æå‡è‡³O(n(logn)^2)ã€‚
 
-        ×îºÃ²½³¤´®ÐÐÊÇÓÉSedgewickÌá³öµÄ (1, 5, 19, 41, 109,...)£¬
-    ¸Ã´®ÐÐµÄÏîÀ´×Ô 9 * 4^i - 9 * 2^i + 1 ºÍ 4^i - 3 * 2^i + 1 ÕâÁ½¸öËãÊ½
+        æœ€å¥½æ­¥é•¿ä¸²è¡Œæ˜¯ç”±Sedgewickæå‡ºçš„ (1, 5, 19, 41, 109,...)ï¼Œ
+    è¯¥ä¸²è¡Œçš„é¡¹æ¥è‡ª 9 * 4^i - 9 * 2^i + 1 å’Œ 4^i - 3 * 2^i + 1 è¿™ä¸¤ä¸ªç®—å¼
 
-        ÁíÒ»¸öÔÚ´óÊý×éÖÐ±íÏÖÓÅÒìµÄ²½³¤´®ÐÐÊÇ(ì³²¨ÄÇÆõÊýÁÐ³ýÈ¥0ºÍ1½«Ê£ÓàµÄÊýÒÔ»Æ½ð·ÖÇø±ÈµÄÁ½±¶µÄÃÝ
-    ½øÐÐÔËËãµÃµ½µÄÊýÁÐ)£º
-    £¨1, 9, 34, 182, 836, 4025, 19001, 90358, 428481, 2034035, 9651787, 45806244, 217378076, 1031612713, ¡­£©
+        å¦ä¸€ä¸ªåœ¨å¤§æ•°ç»„ä¸­è¡¨çŽ°ä¼˜å¼‚çš„æ­¥é•¿ä¸²è¡Œæ˜¯(æ–æ³¢é‚£å¥‘æ•°åˆ—é™¤åŽ»0å’Œ1å°†å‰©ä½™çš„æ•°ä»¥é»„é‡‘åˆ†åŒºæ¯”çš„ä¸¤å€çš„å¹‚
+    è¿›è¡Œè¿ç®—å¾—åˆ°çš„æ•°åˆ—)ï¼š
+    ï¼ˆ1, 9, 34, 182, 836, 4025, 19001, 90358, 428481, 2034035, 9651787, 45806244, 217378076, 1031612713, â€¦ï¼‰
 
 ##[Quick Sort](quicksort.cpp)
-#####i×ó±ßµÄÔªËØ¶¼±ÈiÐ¡£¬ÓÒ±ßµÄ¶¼±Èi´ó
+#####iå·¦è¾¹çš„å…ƒç´ éƒ½æ¯”iå°ï¼Œå³è¾¹çš„éƒ½æ¯”iå¤§
 
 
