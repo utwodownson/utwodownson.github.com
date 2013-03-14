@@ -9,8 +9,7 @@ void merge(int *data, int left, int mid, int right)
     int k = 0;
 
     buffer = (int *)malloc(sizeof(int) * length);   // fit the recursion merge, if unrecursion function this line can mv to the merge_sort function
-    if (buffer == NULL) 
-    {
+    if (buffer == NULL) {
         fputs("Error : out of memory\n", stderr);     
         abort();
     }
@@ -32,8 +31,7 @@ void merge(int *data, int left, int mid, int right)
 void mergesort(int *data, int left, int right)
 {
     int mid = 0;
-    if (left < right)   // notice
-    {
+    if (left < right) {  // notice
         // mid = (left + right) / 2 --> if the left and right are too big 
         // mid = left / 2 + right / 2 --> wrong 
         mid = ((left & right) + ((left ^ right) >> 1)); // right
@@ -50,16 +48,13 @@ void mergesort_unr(int *list, int length)
     int left_min, left_max, right_min, right_max, next;
     int *tmp = (int*)malloc(sizeof(int) * length);
 
-    if (tmp == NULL)
-    {
+    if (tmp == NULL) {
         fputs("Error: out of memory\n", stderr);
         abort();
     }
 
-    for (int i = 1; i < length; i *= 2) // i为步长，1,2,4,8……
-    {
-        for (left_min = 0; left_min < length - i; left_min = right_max)
-        {
+    for (int i = 1; i < length; i *= 2) {   // i为步长，1,2,4,8……
+        for (left_min = 0; left_min < length - i; left_min = right_max) {
             /*
              * left_max其实是左半部的长度，right_max其实是右半部的长度，
              * 所以应该叫left_len、righ_len更合适一些。

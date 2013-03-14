@@ -4,9 +4,9 @@ int main()
 {
     int len = 0;
     int data[MAX] = {0};
-    char file[10] = "test.txt";
+    char file[10] = "./data/test.txt";
 
-    srand((unsigned int)time(NULL));
+    srand((unsigned int) time(NULL));
 
     load_file(file, &len, data);
     shuffle(data, len);
