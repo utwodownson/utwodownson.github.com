@@ -10,7 +10,7 @@ if () {
     ;
 }
 
-
+// switch的标准格式
 switch (reason) {
 
     case CLOCK_EVT_NOTIFY_ADD:
@@ -22,23 +22,15 @@ switch (reason) {
         tick_broadcast_on_off(reason, dev);
         break;
 
-    case CLOCK_EVT_NOTIFY_BROADCAST_ENTER:
-    case CLOCK_EVT_NOTIFY_BROADCAST_EXIT:
-        tick_broadcast_oneshot_control(reason);
-        break;
-
     case CLOCK_EVT_NOTIFY_CPU_DYING:
         tick_handover_do_timer(dev);
-        break;
-
-    case CLOCK_EVT_NOTIFY_RESUME:
-        tick_resume();
         break;
 
     default:
         break;
 }
 
+// for 循环的格式
 int audit_tree_match(struct audit_chunk *chunk, struct audit_tree *tree)
 {
     int n;
@@ -48,7 +40,12 @@ int audit_tree_match(struct audit_chunk *chunk, struct audit_tree *tree)
     return 0;
 }
 
-
+// 结构体初始化需要在中括号间用空格
 struct region_devres match_data = { parent, start, n };
-unsigned long owner, *p = (unsigned long *) &lock->owner;
+
+//强制转换之间用空格
+unsigned long owner, *p = (unsigned long *) &lock->owner; 
+
+//这种替换写在一行
+t = x[p]; x[p] = x[i]; x[i] = t; 
 
