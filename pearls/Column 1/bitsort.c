@@ -11,7 +11,13 @@
 #define SHIFT 5
 #define MASK 0x1F
 #define N 10000000
-int a[1 + N/BITSPERWORD];
+int a[1 + N/BITSPERWORD]; // 使用整型数组模拟定义1000万个位癿数组 
+
+/*
+ *  i>>SHIFT 是定位到数组中的哪个数中。34定位到第二个数中。
+ *  i & MASK 是定位到这个数中的哪一位，从0开始，全部数字都要左移一位 
+ *  set置1，clr置0，test测试
+ */
 
 void set(int i) {        a[i>>SHIFT] |=  (1<<(i & MASK)); }
 void clr(int i) {        a[i>>SHIFT] &= ~(1<<(i & MASK)); }

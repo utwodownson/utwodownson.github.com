@@ -49,3 +49,6 @@ unsigned long owner, *p = (unsigned long *) &lock->owner;
 //这种替换写在一行
 t = x[p]; x[p] = x[i]; x[i] = t; 
 
+// 数组内的位移运算不空格
+int  test(int i){ return a[i>>SHIFT] &   (1<<(i & MASK)); }
+
