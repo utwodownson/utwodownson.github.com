@@ -16,7 +16,7 @@ output :
 	mkdir ./output
 	cp $(OBJ1) ./output
 
-$(OBJ1)	: main.o load.o mergesort.o fun.o insertion_sort.o bubble_sort.o selection_sort.o shell_sort.o quick_sort.o
+$(OBJ1)	: main.o load.o mergesort.o fun.o insertion_sort.o bubble_sort.o selection_sort.o shell_sort.o quick_sort.o heapsort.o
 	$(CC) -O2 -o $@ $^  $(INCLUDEDIR)  $(LIBDIR)	
 
 %.o	: %.cpp %.h

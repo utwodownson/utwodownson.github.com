@@ -13,4 +13,4 @@
 递归时间复杂度O(lgn),就是把指数拆分出来。
 
 ###[fibonacci数列](fibonacci.cpp)
-递归时间复杂度O(lgn)
+最快的时间复杂度O(lgn)
