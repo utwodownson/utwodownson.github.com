@@ -18,3 +18,7 @@
 
 /output
 
+/poj/*
+
+!/poj/*.cpp
+!/poj/*.md
