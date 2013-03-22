@@ -1,12 +1,18 @@
-for (;;) {
+for (;;) 
+{
     ;
 }
 
-if () {
+if () 
+{
     ;
-} else if () {
+} 
+else if () 
+{
     ;
-} else {
+} 
+else 
+{
     ;
 }
 
@@ -50,5 +56,5 @@ unsigned long owner, *p = (unsigned long *) &lock->owner;
 t = x[p]; x[p] = x[i]; x[i] = t; 
 
 // 数组内的位移运算不空格
-int  test(int i){ return a[i>>SHIFT] &   (1<<(i & MASK)); }
+int  test(int i){ return a[i>>SHIFT] & (1<<(i & MASK)); }
 
