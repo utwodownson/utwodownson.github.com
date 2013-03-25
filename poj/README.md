@@ -12,6 +12,11 @@
 * [1517](1517.cpp) : 模拟公式，直接printf输出,计算的时候注意double与int的转换。
 * [3062](3062.cpp) : 练习gets() and puts()
 * [1804](1804.cpp) : 结果需要用 while(n--) instead of while(scanf(...))，WA了两次  
+* [1528](1528.cpp) : 从1开始加就可以
+* [1939](1939.cpp) : TLE 7次，WA 6次，题倒是很简单。
+* [2028](2028.cpp) : 用标志记录结果就wa了2次，没办法,换成统计结果然后查找就过了。
+* [2636](2636.cpp) : a - b + 1
+* [2109](2109.cpp) : 大整数题,用double和pow水过，但是要用C提交，g++和gcc都wa了。
 
 ###Sort
 * [2299](2299.cpp) : merge sort求逆序数——》这题的测试数据有问题，在if(data[i] < data[j])时测试AC，其实应该是if(data[i] < =  data[j])
