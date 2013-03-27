@@ -24,7 +24,8 @@ void merge(int *data, int left, int mid, int right)
     for (int p = 0; p < k; ++p)
         data[left + p] = buffer[p];
 
-    free(buffer); // donnot forget free
+    if (buffer != NULL)
+        free(buffer); // donnot forget free
 }
 
 // recursion
@@ -34,7 +35,7 @@ void mergesort(int *data, int left, int right)
     if (left < right) {  // notice
         // mid = (left + right) / 2 --> if the left and right are too big 
         // mid = left / 2 + right / 2 --> wrong 
-        mid = ((left & right) + ((left ^ right) >> 1)); // right
+        mid = (left & right) + ((left ^ right) >> 1); // right
         mergesort(data, left, mid);
         mergesort(data, mid + 1, right);
         merge(data, left, mid, right);
