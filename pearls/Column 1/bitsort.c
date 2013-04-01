@@ -11,7 +11,7 @@
 #define SHIFT 5
 #define MASK 0x1F
 #define N 10000000
-int a[1 + N/BITSPERWORD]; // 使用整型数组模拟定义1000万个位癿数组 
+int a[1 + N/BITSPERWORD]; // 使用整型数组模拟定义1000万个位数组 
 
 /*
  *  i>>SHIFT 是定位到数组中的哪个数中。34定位到第二个数中。
