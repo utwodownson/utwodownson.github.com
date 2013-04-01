@@ -7,8 +7,7 @@ void insertion_sort(int *a, int len)
     for (int i = 1; i < len; ++i) {
         key = a[i];
         j = i - 1;
-        while (j >= 0 && a[j] > key) 
-            a[j + 1] = a[j--];
+        while (j >= 0 && a[j] > key) a[j + 1] = a[j--];
         a[j + 1] = key; // j + 1
     }
 }
