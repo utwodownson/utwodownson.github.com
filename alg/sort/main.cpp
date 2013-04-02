@@ -1,5 +1,9 @@
 #include "include/sort.h" 
 
+const int MAXN = 5000000;
+int a[MAXN];
+int b[MAXN], c[MAXN], d[MAXN];
+
 int main()
 {
     int len = 0;
@@ -37,7 +41,6 @@ int main()
     printf("heap sort\n");
     heapsort(data, len);
 #endif
-
     show_data(data, len);
 }
 
