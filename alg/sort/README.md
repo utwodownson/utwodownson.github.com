@@ -84,7 +84,9 @@ wiki上的排序分类：
 
 ##[Heap Sort](./src/heapsort.cpp)
 #####建大顶堆
-    - 
+    - 只用到heapdown
+    
+    - build heap从第一个根开始，完全二叉树第一个根是len / 2 - 1   
 
 ##[Quick Sort](./src/quicksort.cpp)
 #####i左边的元素都比i小，右边的都比i大
