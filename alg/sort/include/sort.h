@@ -12,7 +12,7 @@
 
 #define MAX 100 
 
-#define SORT 1 
+#define SORT 8 
 
 #define INSERTION 1
 #define MERGE 2

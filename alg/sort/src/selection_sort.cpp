@@ -1,4 +1,4 @@
-#include "include/sort.h"
+#include "../include/sort.h"
 
 void selection_sort(int *data, int len)
 {

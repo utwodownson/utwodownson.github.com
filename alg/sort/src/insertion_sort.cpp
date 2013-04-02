@@ -1,4 +1,4 @@
-#include "include/sort.h" 
+#include "../include/sort.h" 
 
 void insertion_sort(int *a, int len)
 {

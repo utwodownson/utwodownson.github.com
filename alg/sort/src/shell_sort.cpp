@@ -1,4 +1,4 @@
-#include "include/sort.h"
+#include "../include/sort.h"
 
 void shell_sort(int *data, int len)
 {

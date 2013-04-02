@@ -33,6 +33,9 @@ int main()
 #elif SORT == QUICK 
     printf("quick sort\n");
     quick_sort(data, 0, len - 1);
+#elif SORT == HEAP 
+    printf("heap sort\n");
+    heapsort(data, len);
 #endif
 
     show_data(data, len);

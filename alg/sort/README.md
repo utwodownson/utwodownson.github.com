@@ -19,7 +19,7 @@ wiki上的排序分类：
 
 本文只介绍`《算法导论》`里边提到的排序算法，按照出现的顺序，代码实现如下：
 
-##[Insertion Sort](insertion_sort.cpp)
+##[Insertion Sort](./src/insertion_sort.cpp)
 
 #####从后向前，在已排序的数组中插入key的元素。
     - 发明者Hollerith创立的电脑制表记录公司（CTR）在1924年更名为IBM。
@@ -29,7 +29,7 @@ wiki上的排序分类：
     - STL的sort算法和stdlib的qsort算法中，都将插入排序作为快速排序的补充，
     用于少量元素的排序（通常为8个或以下）。
 
-##[Merge Sort](mergesort.cpp)
+##[Merge Sort](./src/mergesort.cpp)
 
 ####递归
     - 拆分成两个数组合并, 然后求mid，合并前一半，合并后一半。
@@ -56,7 +56,7 @@ wiki上的排序分类：
     
     - N更大时，k=logN可以有更好的效果。这种优化可以提升10%-20%的性能。
 
-##[Bubble Sort](bubble_sort.cpp)
+##[Bubble Sort](./src/bubble_sort.cpp)
 
 #####通过两两比较交换，把最小的元素“浮”到数据的顶端。
     - 在最坏的情况，冒泡排序需要O(n^2)次交换，而插入排序只要最多O(n)交换。
@@ -66,10 +66,10 @@ wiki上的排序分类：
     - 若在每次走访数列时，把走访顺序和比较大小反过来，也可以稍微地改进效率。
     有时候称为往返排序，因为算法会从数列的一端到另一端之间穿梭往返。
 
-##[Selection Sort](selection_sort.cpp)
+##[Selection Sort](./src/selection_sort.cpp)
 #####直接找最大最小元素
 
-##[Shell Sort](shell_sort.cpp)
+##[Shell Sort](./src/shell_sort.cpp)
 #####以步长step进行插入排序
     - 设计者希尔（Donald Shell）的名字命名，该算法由1959年公布。
 
@@ -82,7 +82,11 @@ wiki上的排序分类：
     进行运算得到的数列)：
     （1, 9, 34, 182, 836, 4025, 19001, 90358, 428481, 2034035, 9651787, 45806244, 217378076, 1031612713, …）
 
-##[Quick Sort](quicksort.cpp)
+##[Heap Sort](./src/heapsort.cpp)
+#####建大顶堆
+    - 
+
+##[Quick Sort](./src/quicksort.cpp)
 #####i左边的元素都比i小，右边的都比i大
     - 东尼·霍尔所发展的一种排序算法
 
@@ -103,8 +107,6 @@ wiki上的排序分类：
 
     - 优先处理长度短的子列,采用插入排序
 
-##[Heap Sort](heapsort.cpp)
-#####建大顶堆
 
 
 

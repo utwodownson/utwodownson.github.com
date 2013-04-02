@@ -3,6 +3,8 @@ CC = /usr/bin/g++
 OBJ1 = sort 
 LIBDIR = -lpthread -lm
 INCLUDEDIR= -I./ -I./include -I../include
+VPATH = src
+SORT = mergesort.o insertion_sort.o bubble_sort.o selection_sort.o shell_sort.o quick_sort.o heapsort.o
 
 CPPFLAGS = -g -finline-functions -Wall -Winline -pipe -ffast-math -ftracer  -march=x86-64  -frename-registers -mtune=core2 -fprefetch-loop-arrays -mmmx -fpermissive
 
@@ -16,7 +18,7 @@ output :
 	mkdir ./output
 	cp $(OBJ1) ./output
 
-$(OBJ1)	: main.o load.o mergesort.o fun.o insertion_sort.o bubble_sort.o selection_sort.o shell_sort.o quick_sort.o heapsort.o
+$(OBJ1)	: main.o load.o fun.o $(SORT) 
 	$(CC) -O2 -o $@ $^  $(INCLUDEDIR)  $(LIBDIR)	
 
 %.o	: %.cpp %.h

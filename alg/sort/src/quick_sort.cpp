@@ -1,4 +1,4 @@
-#include "include/sort.h"
+#include "../include/sort.h"
 
 int position(int *data, int low, int high)
 {
