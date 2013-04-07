@@ -109,6 +109,14 @@ wiki上的排序分类：
 
     - 优先处理长度短的子列,采用插入排序
 
+##[Counting Sort](./src/counting_sort.cpp)
+####类似Hash，适用小数的排列
+    
+    c[a[i]]++;
+    c[i] = c[i] + c[i - 1];
+    b[c[a[i]] - 1] = a[i];
+    c[a[i]]--;
+
 
 
 
