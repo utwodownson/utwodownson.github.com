@@ -2,7 +2,7 @@
 #include <stdlib.h>   
 #include <string.h>   
 
-extern void quick_sort(int a[], int p, int q);/* not necessary */  
+extern void quick_sort(int a[], int p, int q); /* not necessary */  
 
 struct barrel {   
     int node[10];   
@@ -45,7 +45,7 @@ void bucket_sort(int data[], int size)
     free(pBarrel);   
 }   
 
-main()   
+int main()   
 {   
     int data[] = {78, 17, 39, 26, 72, 94, 21, 12, 23, 91}, i;   
     int size = sizeof(data) / sizeof(int);   
