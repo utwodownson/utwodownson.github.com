@@ -1,2 +1,21 @@
-markdown: rdiscount
-pygments: true
+baseurl:       /
+auto:          true
+permalink:     pretty
+
+title:         Charles 
+
+paginate:      5
+
+pygments:      true 
+markdown:      rdiscount
+exclude:       ['README.md']
+
+feed:          /atom.xml
+author:
+    name:      YangShuang 
+    twitter:   https://twitter.com/utwodownson/
+    douban:    http://www.douban.com/people/utwodonwosn/
+    github:    https://github.com/utwodonwosn/
+    gmail:     utwodonwosn@gmail.com
+
+description:   If you want, you can.
