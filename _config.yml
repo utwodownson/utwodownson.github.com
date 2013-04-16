@@ -8,9 +8,7 @@ paginate:      5
 
 pygments:      true 
 markdown:      rdiscount
-exclude:       ['README.md']
 
-feed:          /atom.xml
 author:
     name:      YangShuang 
     twitter:   https://twitter.com/utwodownson/
