@@ -4,8 +4,8 @@ title: My Fisrt Blog
 ---
 
 h1. {{ page.title }}
-
-p(meta). 2013-04-16 - Beijing 
+==========
+<p class="meta"> 2013-04-16 - Beijing</p> 
 
 记录自己的成长，不断反省，总结，发现自己的不足，坚持。
 
