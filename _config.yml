@@ -6,7 +6,7 @@ title:         Charles
 
 paginate:      5
 
-pygments:      false 
+pygments:      true 
 markdown:      rdiscount
 exclude:       ['README.md']
 
