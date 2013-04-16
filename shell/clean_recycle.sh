@@ -1,4 +1,8 @@
-uthor Steven 
+#! /bin/bash
+
+# 定时删除回收站
+# crontab -e 
+# 15 * * 0 sh /root/clean_recycle.sh
 
 dirpath=/data/Recycle/ 
 ago=`date -d "-15 day" +%Y%m%d` 

@@ -1,5 +1,9 @@
 #!/bin/sh  
 
+# 回收站
+# chmod 755 /bin/rm.sh
+# echo "alias rm='/bin/rm.sh'" >> /etc/bashrc
+
 dirpath=/data/Recycle # 选择回收站所在的分区目录 
 now=`date +%Y%m%d_%H_%M_%S_`   
 delfile=`basename $1`
