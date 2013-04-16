@@ -4,8 +4,6 @@ permalink:     pretty
 
 title:         Charles 
 
-paginate:      5
-
 pygments:      true 
 markdown:      rdiscount
 
