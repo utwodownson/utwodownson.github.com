@@ -6,9 +6,12 @@ title: about
 <div id="about">
   <h1>About</h1>
   <ul class="posts">
-      <li><a href="mailto:{{ site.author.gmail }}">{{ site.author.gmail }}</a></li>
-      <li><a href="{{ site.author.weibo }}">Weibo</a></li>
-      <li><a href="{{ site.author.douban }}">Douban</a></li>
-      <li><a href="{{ site.author.github }}">GitHub</a></li>
+      <!-- this is a sample> 
+        <li><a href="mailto:{{ site.author.gmail }}">{{ site.author.gmail }}</a></li>
+      <--!>
+      <li>Gmail  : "{{site.author.gmail}}"</li>
+      <li>Weibo  : <a href="{{ site.author.weibo }}">@YangShuang</a></li>
+      <li>Douban : <a href="{{ site.author.douban }}">@YangShuang</a></li>
+      <li>Github : <a href="{{ site.author.github }}">@YangShuang</a></li>
   </ul>
 </div>
