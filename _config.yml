@@ -1,0 +1,16 @@
+pygments: true
+baseurl: /
+permalink: ./:year/:month/:day/:title.html
+
+markdown:      rdiscount
+auto:          true
+
+author:
+    name:      YangShuang 
+    twitter:   https://twitter.com/utwodownson/
+    douban:    http://www.douban.com/people/utwodonwosn/
+    github:    https://github.com/utwodonwosn/
+    gmail:     echo dXR3b2Rvd25zb25AZ21haWwuY29tCg== | base64 -d
+    weibo:     http://weibo.com/charlesy
+
+description:   If you want, you can.
