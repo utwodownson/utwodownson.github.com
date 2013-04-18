@@ -5,7 +5,6 @@ title: Tags
 
 h1. {{ page.title }}
 
-
 <div id="home">
     <div class="post">
         {% for tag in site.tags %}
@@ -25,17 +24,18 @@ h1. {{ page.title }}
         <span class="{{ c }}"><a href="#{{ tag[0] }}">#{{ tag[0] }}({{ tag[1].size }})</a></span>
         {% endfor %}
     </div>
+    <div>
+    <p></p>
+    <p></p>
+    <p></p>
+    </div>
+    {% for tag in site.tags %}
+    <h4><a name="{{ tag[0] }}">{{ tag[0] }}({{ tag[1].size }})</a></h4>
 
-        {% for tag in site.tags %}
-        <h4><a name="{{ tag[0] }}">{{ tag[0] }}({{ tag[1].size }})</a></h4>
-    <table id="posts">
+    <div id="posts">
         {% for post in tag[1] %}
-        <tr>
-        
-        <td><li><span class="post_date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-        </td>
-        </tr>
+        <span class="post_date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
-    </table>
-        {% endfor %}
+    </div>
+    {% endfor %}
 </div>
