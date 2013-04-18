@@ -1,0 +1,11 @@
+---
+layout: page
+title: About 
+---
+
+h1. {{ page.title }}
+
+<ul class="posts">
+  <li>Weibo : <a href="http://weibo.com/charlesy">@Charles</a></li>
+</ul>
+

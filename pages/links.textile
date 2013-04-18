@@ -1,0 +1,13 @@
+---
+layout: page
+title: Links
+---
+
+h1. {{ page.title }}
+
+Blog
+
+<ul class="posts">
+  <li><a href="http://coolshell.cn/">CoolShell :</a> 陈浩的博客</li>
+</ul>
+
