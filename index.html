@@ -16,7 +16,7 @@ title: Home
         {% if post.post-link %}
         <h1><a href="{{ post.post-link }}" title="External link">{{ post.title }}</a> <a class="glyph-permalink" href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&raquo;</a></h1>
         {% else %}
-        <h1><a href="{{ site.baseurl }}{{ post.title }}">{{ post.title }}</a> <a class="glyph-permalink" href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&raquo;</a></h1>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <a class="glyph-permalink" href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&raquo;</a></h1>
         {% endif %}
         {{ post.content  || split:'<!--break-->' | first }}
       </div>
