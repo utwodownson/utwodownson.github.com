@@ -30,7 +30,7 @@ h1. {{ page.title }}
     <p></p>
     </div>
     {% for tag in site.tags %}
-    <strong><a name="{{ tag[0] }}">{{ tag[0] }}({{ tag[1].size }})</a><strong>
+    <a name="{{ tag[0] }}">{{ tag[0] }}({{ tag[1].size }})</a>
 
     <div id="posts">
         {% for post in tag[1] %}
