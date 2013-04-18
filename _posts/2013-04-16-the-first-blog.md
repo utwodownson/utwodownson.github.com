@@ -4,7 +4,7 @@ title: My Fisrt Blog
 date: 2013-04-15 15:30
 ---
 <table> 
-    <tr align="left">
+    <tr>
         <th width="40%"><strong>内心变强大的十个诀窍<strong></th>
         <th width="20%"><strong><strong></th>
         <th width="40%"><strong>建立人脉的10心理技巧<strong></th>
