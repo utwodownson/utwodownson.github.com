@@ -5,12 +5,7 @@ title: About
 
 h1. {{ page.title }}
 
-
-* Gmail  : {{site.author.gmail}}
-* Weibo  : [@YangShuang][a]
-* Douban : [@YangShuang][b]
-* Github : [@YangShuang][c]
-
-[a]: {{ site.author.weibo }}
-[b]: {{ site.author.douban }}
-[c]: {{ site.author.github }}
+Gmail  : {{site.author.gmail}}
+Weibo  : [@YangShuang](http://weibo.com/charlesy)
+Douban : [@YangShuang](http://www.douban.com/people/utwodonwosn/)
+Github : [@YangShuang](https://github.com/utwodownson)

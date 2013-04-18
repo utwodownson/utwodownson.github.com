@@ -3,7 +3,7 @@ layout: page
 title: Archives
 ---
 
-#Archives
+h1. {{ page.title }}
 
 <div id="related">
 <ul class="posts">
