@@ -14,3 +14,6 @@ author:
     weibo:     http://weibo.com/charlesy
 
 description:   If you want, you can.
+
+# 每一页显示的文章数
+paginate: 5  
