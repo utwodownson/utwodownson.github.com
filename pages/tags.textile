@@ -1,0 +1,39 @@
+---
+layout: page
+title: Tags 
+---
+
+h1. {{ page.title }}
+
+
+<div id="home">
+<h1>Tags</h1>
+<div class="tagg">
+{% for tag in site.tags %}
+{% capture c %} {{ "tag1" }} {% endcapture %}
+{% if tag[1].size > 3 %}
+{% capture c %} {{ "tag3" }} {% endcapture %}
+{% endif %}
+{% if tag[1].size > 10 %}
+{% capture c %} {{ "tag10" }} {% endcapture %}
+{% endif %}
+{% if tag[1].size > 20 %}
+{% capture c %} {{ "tag20" }} {% endcapture %}
+{% endif %}
+{% if tag[1].size > 40 %}
+{% capture c %} {{ "tag40" }} {% endcapture %}
+{% endif %}
+<span class="{{ c }}"><a href="#{{ tag[0] }}">#{{ tag[0] }}({{ tag[1].size }})</a></span>
+{% endfor %}
+</div>
+{% for tag in site.tags %}
+<h4><a name="{{ tag[0] }}">{{ tag[0] }}({{ tag[1].size }})</a></h4>
+<table id="posts">
+<col style="width:25%">
+<col style="width:75%">
+{% for post in tag[1] %}
+<tr><td>{{ post.date | date: "%Y-%m-%d" }}</td><td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
+{% endfor %}
+</table>
+{% endfor %}
+</div>
