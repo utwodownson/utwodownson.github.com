@@ -1,0 +1,16 @@
+---
+layout: page
+title: About
+---
+
+h1. {{ page.title }}
+
+
+* Gmail  : {{site.author.gmail}}
+* Weibo  : [@YangShuang][a]
+* Douban : [@YangShuang][b]
+* Github : [@YangShuang][c]
+
+[a]: {{ site.author.weibo }}
+[b]: {{ site.author.douban }}
+[c]: {{ site.author.github }}
