@@ -5,6 +5,4 @@ title: Links
 
 h1. {{ page.title }}
 
-[CoolShell][a]
-
-[a]:(http://coolshell.cn/)  
+[CoolShell](http://coolshell.cn/)  
