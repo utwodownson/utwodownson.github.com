@@ -6,9 +6,9 @@ date: 7001-10-20 15:30
 
 <table> 
     <tr>
-        <th width="40%"><strong>内心变强大的十个诀窍<strong></th>
+        <th width="40%" align="left"><strong>内心变强大的十个诀窍<strong></th>
         <th width="20%"><strong><strong></th>
-        <th width="40%"><strong>建立人脉的10心理技巧<strong></th>
+        <th width="40%" align="left"><strong>建立人脉的10心理技巧<strong></th>
     </tr>
 
     <tr>
