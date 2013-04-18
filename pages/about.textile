@@ -6,20 +6,10 @@ title: About
 h1. {{ page.title }}
 
 
-+ Gmail  : {{site.author.gmail}}
-+ Weibo  : [@YangShuang][a]
-+ Douban : [@YangShuang][b]
-+ Github : [@YangShuang][c]
-
-Thanks.
-
-h1. Colophon
-
-"Vim":http://www.vim.org/ is my only text editor.
-
-I'm a big fan of the succinct and straightforward Textile syntax which is the markup language used to create this site.
-
-This site runs "Jekyll":http://jekyllrb.com/, the simple, blog aware, static site generator.
+* Gmail  : {{site.author.gmail}}
+* Weibo  : [@YangShuang][a]
+* Douban : [@YangShuang][b]
+* Github : [@YangShuang][c]
 
 [a]: {{ site.author.weibo }}
 [b]: {{ site.author.douban }}
