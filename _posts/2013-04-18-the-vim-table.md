@@ -13,4 +13,4 @@ Vim 速查卡
 
 [大图](/images/vim_go.png)
 
-<img src="/images/vim_go.png"  alt="速查卡" height="580" width="640"/>
+<img src="/images/vim_go.png"  alt="速查卡" height="500" width="640"/>
