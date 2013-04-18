@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Fisrt Blog
-date: 7001-10-20 15:30
+title: Charles Blog 
+date: 2013-12-31 9:45
 ---
 
 <table> 
