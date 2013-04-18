@@ -61,16 +61,16 @@ body {
 
 a {
   text-decoration: none;
-  color: #0000a9;
+  color: #39c;
 }
 
 a:hover {
   text-decoration: underline;
-  color: black;
+  color: #069;
 }
 
 a, a:visited { 
-  color: #0000a9; 
+  color: #39c; 
   text-decoration: non; 
   outline: 0; 
 }
@@ -165,6 +165,14 @@ code {
   display: block;
   padding: 0.5em 1em;
   border: 1px solid #bebab0;
+}
+
+.tagg {
+    padding: 0 0 30px;
+}
+
+.tagg span {
+    line-height: 2em;
 }
 
 /* terminal */

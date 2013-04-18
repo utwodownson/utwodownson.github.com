@@ -6,7 +6,7 @@ title: Tags
 h1. {{ page.title }}
 
 <div id="home">
-    <div class="post">
+    <div class="tagg">
         {% for tag in site.tags %}
         {% capture c %} {{ "tag1" }} {% endcapture %}
         {% if tag[1].size > 3 %}
@@ -30,7 +30,7 @@ h1. {{ page.title }}
     <p></p>
     </div>
     {% for tag in site.tags %}
-    <h4><a name="{{ tag[0] }}">{{ tag[0] }}({{ tag[1].size }})</a></h4>
+    <strong><a name="{{ tag[0] }}">{{ tag[0] }}({{ tag[1].size }})</a><strong>
 
     <div id="posts">
         {% for post in tag[1] %}
