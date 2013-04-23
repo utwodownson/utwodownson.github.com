@@ -2,7 +2,7 @@
 layout: post
 title: VIM 速查卡
 date: 2013-04-18 17:17
-tags: VIM 
+tags: vim 
 ---
 
 Vim 速查卡
