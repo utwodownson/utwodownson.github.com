@@ -36,8 +36,6 @@ task :new_post, :title do |t, args|
     post.puts "post-link:"
     post.puts "---"
     post.puts ""
-    post.puts "bq. BLOCKQUOTE"
-    post.puts ""
   end
 end
 
