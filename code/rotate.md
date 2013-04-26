@@ -1,3 +1,8 @@
+---
+layout: page
+title: About 
+---
+
 {% highlight javascript %}
 #include <stdio.h>
 #include <string.h>
