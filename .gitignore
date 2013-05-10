@@ -15,10 +15,3 @@
 *.swp
 *~
 *.stackdump
-
-/output
-
-/poj/*
-
-!/poj/*.cpp
-!/poj/*.md
